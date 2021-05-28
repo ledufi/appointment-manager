@@ -1,7 +1,5 @@
 <template>
-  <div class="home">
-    <h1>Home :)</h1>
-  </div>
+  <div class="w-60 h-60 rounded-full border-blue-800 ring-4 flex justify-center items-center">Hola</div>
 </template>
 
 <script lang="ts">
